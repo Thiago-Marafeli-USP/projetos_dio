@@ -1,3 +1,3 @@
-# Desafio de Projeto sobre Github da DIO
+# Projetos da DIO
 
-Este repositório será útil para poder armazenar conhecimentos adquiridos ao longo do curso :)
+Este repositório armazena projetos propostos pela Digital Innovation one (DIO)
